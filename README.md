@@ -1,2 +1,4 @@
+
 # soporte-gamer
-Repositorio de mi pagina web
+Repositorio de mi pagina web.
+
